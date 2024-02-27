@@ -1,6 +1,9 @@
 # [SDF09] Responsive Footer Design with Tailwind CSS
 
 Create a responsive footer for a website using Tailwind CSS. This project aims to enhance your CSS skills, focusing on responsive design and the utility-first approach of Tailwind CSS.
+
+![alt text](Footer.png)
+
 ## Objectives
 - Clone the provided starter code.
 - Style the footer using Tailwind CSS.
@@ -9,8 +12,10 @@ Create a responsive footer for a website using Tailwind CSS. This project aims t
 - Design a newsletter subscription section, a quick links section, and optionally add social media links.
 - Test your footer's responsiveness.
 - Submit your GitHub repository link via the LMS.
+
 ## Deliverables
 Submit a GitHub link containing your project files, showcasing the completed responsive footer.
+
 ## Detailed Steps
 1. **Grid Layout Setup**: Utilize Tailwind's grid system to create a responsive layout for your footer sections.
 2. **Style Subscription Section**: Design a visually appealing subscription area with an input field and a button.
